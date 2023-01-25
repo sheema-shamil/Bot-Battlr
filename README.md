@@ -102,12 +102,4 @@ stretch your skills.
 > Note: If you are going to attempt these advanced deliverables, please be sure
 > to have a working commit with all the Core Deliverables first!
 
-As a user, you should be able to:
-
-- Choose if I want to enlist a bot into my army or just see their data. Clicking
-  on the card should instead display a show view (`BotSpecs`) for that bot,
-  which should replace `BotsCollection`. BotSpecs should have two buttons: one
-  to go back to the list view and another to enlist that bot. Your app could
-  look like the following:
-
 
