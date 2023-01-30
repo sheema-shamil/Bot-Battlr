@@ -31,7 +31,7 @@ function BotsPage() {
     });
   }
 
-  function deleteHandler() {}
+  
   return (
     <div>
       <YourBotArmy collection={army} clickHandler={retire} handleDelete={handleDelete} />
